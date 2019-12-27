@@ -1,0 +1,6 @@
+# Test Cases
+1. search filter should work on the basis of date.
+2. end date should be greater than the start date 
+3. without selecting date and city ,searching not work
+4.if start date and end date equals to current date it should treat as today and it will fetch data from the Open weather API.
+5.Data should be accessible from the database that is history data.
